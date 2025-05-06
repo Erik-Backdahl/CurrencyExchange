@@ -1,4 +1,5 @@
-﻿using System.Text.Json;
+﻿using System.Globalization;
+using System.Text.Json;
 HttpClient client = new HttpClient();
 
 HttpResponseMessage ?responseFirst = null;
@@ -68,9 +69,9 @@ JsonElement rootFirst = docFirst.RootElement;
 
 string ?data = rootFirst.GetProperty($"{endPointFirst}").GetProperty($"{endPointSecond}").ToString();
 
-decimal converionRate = decimal.Parse(data);
+decimal converionRate = decimal.Parse(data, CultureInfo.InvariantCulture);
 
-decimal finalNumber = currencyAmmount * converionRate; 
+decimal finalNumber = currencyAmmount * converionRate;
 
 Console.WriteLine($"With a conversion rate of: {converionRate}\t your final ammount becomes:\n");
 Console.WriteLine(finalNumber);
