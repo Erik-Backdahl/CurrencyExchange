@@ -1,0 +1,14 @@
+C:\VSC\PROJECTS\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange.exe
+C:\VSC\PROJECTS\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange.deps.json
+C:\VSC\PROJECTS\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange.runtimeconfig.json
+C:\VSC\PROJECTS\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange.dll
+C:\VSC\PROJECTS\CurrencyExchange\bin\Debug\net9.0\CurrencyExchange.pdb
+C:\VSC\PROJECTS\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSC\PROJECTS\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange.AssemblyInfoInputs.cache
+C:\VSC\PROJECTS\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange.AssemblyInfo.cs
+C:\VSC\PROJECTS\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange.csproj.CoreCompileInputs.cache
+C:\VSC\PROJECTS\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange.dll
+C:\VSC\PROJECTS\CurrencyExchange\obj\Debug\net9.0\refint\CurrencyExchange.dll
+C:\VSC\PROJECTS\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange.pdb
+C:\VSC\PROJECTS\CurrencyExchange\obj\Debug\net9.0\CurrencyExchange.genruntimeconfig.cache
+C:\VSC\PROJECTS\CurrencyExchange\obj\Debug\net9.0\ref\CurrencyExchange.dll
